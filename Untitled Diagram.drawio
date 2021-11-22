@@ -1,79 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T13:19:58.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="2619ddM9vCVALcK1xQmt" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T14:00:43.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="d0nk4_VcDsUREd8mM2PC" version="15.8.3" type="github">
   <diagram id="kMm-YpxfWViuReVfI4U7" name="Page-1">
-    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="492" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFCCCC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.529;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-1" target="7983x2gcaleZQ4Jc-A6E-4">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-1" value="&lt;b&gt;Browse&lt;br&gt;https://widget-dev.mobilum.com/&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="241.5" y="53" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7983x2gcaleZQ4Jc-A6E-4" target="7983x2gcaleZQ4Jc-A6E-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-1" value="&lt;b&gt;Browse&lt;br&gt;https://widget-dev.mobilum.com/&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="20" width="230" height="60" as="geometry" />
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-4" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Loa All global configuration&lt;br&gt;like country code ,fiat currency, authentication method, country detail&lt;br&gt;every seconds check the market value&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="209.5" y="223" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-4" target="7983x2gcaleZQ4Jc-A6E-5">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7983x2gcaleZQ4Jc-A6E-5" target="7983x2gcaleZQ4Jc-A6E-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-4" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Loa All global configuration&lt;br&gt;like country code ,fiat currency, authentication method, country detail&lt;br&gt;every seconds check the market value&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="150" width="240" height="70" as="geometry" />
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-5" value="Is user entered&lt;br&gt;&amp;nbsp;the amount of&lt;br&gt;cryptocurrency to buy with email id." style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="296" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-5" target="7983x2gcaleZQ4Jc-A6E-10">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#000066;" parent="1" source="7983x2gcaleZQ4Jc-A6E-10" target="7983x2gcaleZQ4Jc-A6E-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-5" value="Is user entered&lt;br&gt;&amp;nbsp;the amount of&lt;br&gt;cryptocurrency to buy with email id." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="250" width="170" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#000066;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-10" target="7983x2gcaleZQ4Jc-A6E-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-10" value="click Checkout and&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#080808&quot;&gt;&lt;span style=&quot;font-size: 13.0667px ; background-color: rgb(255 , 255 , 255)&quot;&gt;order will be added&lt;/span&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-10" value="click Checkout and&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#080808&quot;&gt;&lt;span style=&quot;font-size: 13.0667px ; background-color: rgb(255 , 255 , 255)&quot;&gt;order will be added&lt;/span&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="390" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-14" target="7983x2gcaleZQ4Jc-A6E-15">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7983x2gcaleZQ4Jc-A6E-14" target="7983x2gcaleZQ4Jc-A6E-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-14" value="if two factor&lt;br&gt;authentication enable the user,&lt;br&gt;&amp;nbsp;then the user must entered &lt;br&gt;the code" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-14" value="if two factor&lt;br&gt;authentication enable the user,&lt;br&gt;&amp;nbsp;then the user must entered &lt;br&gt;the code" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="630" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.478;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-15" target="7983x2gcaleZQ4Jc-A6E-17">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.478;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7983x2gcaleZQ4Jc-A6E-15" target="7983x2gcaleZQ4Jc-A6E-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-15" value="Display the summary amount of cryptocurrency order along with credit card information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-15" value="Display the summary amount of cryptocurrency order along with credit card information" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="225" y="810" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-17" target="7983x2gcaleZQ4Jc-A6E-21">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="1" source="7983x2gcaleZQ4Jc-A6E-17" target="7983x2gcaleZQ4Jc-A6E-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-17" value="Finally when you click the Buy button the summary then the transaction will start and delivered the wallet email address." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-17" value="Finally when you click the Buy button the summary then the transaction will start and delivered the wallet email address." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="195" y="900" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-20" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-20" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="360" y="610" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-21" value="end" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1030" width="120" height="60" as="geometry" />
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-21" value="end" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fillColor=#B266FF;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="291" y="1016" width="78" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-23" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-23" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="345" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-24" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-24" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="360" y="525" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-28" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="415" y="90" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-29" value="&lt;font&gt;&lt;font color=&quot;#000066&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;H&lt;u&gt;ow to buy&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(0 , 0 , 102) ; font-size: 16px&quot;&gt;&lt;u&gt;Cryptocurrency&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;font color=&quot;#000066&quot;&gt;&lt;u&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;on&lt;br&gt;&amp;nbsp;mobilum&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;system&lt;/b&gt;&lt;/span&gt;&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-29" value="&lt;font&gt;&lt;i&gt;&lt;font color=&quot;#000066&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;H&lt;u&gt;ow to buy&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(0 , 0 , 102) ; font-size: 16px&quot;&gt;&lt;u&gt;Cryptocurrency&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;font color=&quot;#000066&quot;&gt;&lt;u&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;on&lt;br&gt;&amp;nbsp;mobilum&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;system&lt;/b&gt;&lt;/span&gt;&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="530" y="50" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#000066;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-32" target="7983x2gcaleZQ4Jc-A6E-14">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#000066;" parent="1" source="7983x2gcaleZQ4Jc-A6E-32" target="7983x2gcaleZQ4Jc-A6E-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-32" value="Client need to &lt;br&gt;sign or register&lt;br&gt;if succeeded" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-32" value="Client need to &lt;br&gt;sign or register&lt;br&gt;if succeeded" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="500" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-36" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-36" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="335" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_icfeRyU3zsmz5HG4lq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F_icfeRyU3zsmz5HG4lq-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="54" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F_icfeRyU3zsmz5HG4lq-1" value="start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#B266FF;" vertex="1" parent="1">
+          <mxGeometry x="299" y="3" width="61" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="F_icfeRyU3zsmz5HG4lq-4" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Loa All global configuration&lt;br&gt;like country code ,fiat currency, authentication method, country detail&lt;br&gt;every seconds check the market value&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241.5" y="133" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
