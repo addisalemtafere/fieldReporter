@@ -1,1 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T12:34:16.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" version="15.8.3" etag="8kUwD6_Z5e4rHJseBQKS" type="github"><diagram id="kMm-YpxfWViuReVfI4U7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-22T12:59:36.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="lUdV0I8cL_Y_QrLd2LKB" version="15.8.3" type="github">
+  <diagram id="kMm-YpxfWViuReVfI4U7" name="Page-1">
+    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.529;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-1" target="7983x2gcaleZQ4Jc-A6E-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-1" value="&lt;b&gt;Browse&lt;br&gt;https://widget-dev.mobilum.com/&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-4" target="7983x2gcaleZQ4Jc-A6E-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-4" value="Loa All global configuration&lt;br&gt;like country code ,fiat currency, authentication method, country detail&lt;br&gt;every seconds check the market value" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="150" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-5" target="7983x2gcaleZQ4Jc-A6E-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-5" value="Is user entered&lt;br&gt;&amp;nbsp;the amount cryptocurrency to but with email id" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="260" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="352.5" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-10" value="click Checkout and&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#080808&quot; face=&quot;Fira Code, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.0667px ; background-color: rgb(255 , 255 , 255)&quot;&gt;order will be added&lt;/span&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-14" target="7983x2gcaleZQ4Jc-A6E-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-14" value="if two factor&lt;br&gt;authentication enable the user, then the user must entered the code" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="480" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.478;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-15" target="7983x2gcaleZQ4Jc-A6E-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-15" value="Display the summary amount of cryptocurrency order along with credit card information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="700" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-17" value="Finally when you click the Buy button the summary then the transaction will start and delivered the wallet email address." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="840" width="270" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
