@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T12:59:36.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="lUdV0I8cL_Y_QrLd2LKB" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T13:02:18.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="ypnLgPMaAiZ-pQDIRe-3" version="15.8.3" type="github">
   <diagram id="kMm-YpxfWViuReVfI4U7" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,9 +20,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7983x2gcaleZQ4Jc-A6E-5" value="Is user entered&lt;br&gt;&amp;nbsp;the amount cryptocurrency to but with email id" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="260" width="150" height="110" as="geometry" />
+          <mxGeometry x="260" y="250" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-10">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-10" target="7983x2gcaleZQ4Jc-A6E-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="352.5" y="480" as="targetPoint" />
           </mxGeometry>
@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7983x2gcaleZQ4Jc-A6E-14" value="if two factor&lt;br&gt;authentication enable the user, then the user must entered the code" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="480" width="240" height="130" as="geometry" />
+          <mxGeometry x="235" y="510" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7983x2gcaleZQ4Jc-A6E-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.478;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-15" target="7983x2gcaleZQ4Jc-A6E-17">
           <mxGeometry relative="1" as="geometry" />
@@ -44,8 +44,23 @@
         <mxCell id="7983x2gcaleZQ4Jc-A6E-15" value="Display the summary amount of cryptocurrency order along with credit card information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="700" width="210" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-17" target="7983x2gcaleZQ4Jc-A6E-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7983x2gcaleZQ4Jc-A6E-17" value="Finally when you click the Buy button the summary then the transaction will start and delivered the wallet email address." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="840" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-20" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="390" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-21" value="end" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="285" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-23" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="345" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-24" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="370" y="460" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
