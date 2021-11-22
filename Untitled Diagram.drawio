@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T13:13:01.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="IKERXrtkD_rzXKpKMNwR" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T13:19:58.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="2619ddM9vCVALcK1xQmt" version="15.8.3" type="github">
   <diagram id="kMm-YpxfWViuReVfI4U7" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,13 +19,13 @@
         <mxCell id="7983x2gcaleZQ4Jc-A6E-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-5" target="7983x2gcaleZQ4Jc-A6E-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-5" value="Is user entered&lt;br&gt;&amp;nbsp;the amount &lt;br&gt;cryptocurrency to but with email id" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-5" value="Is user entered&lt;br&gt;&amp;nbsp;the amount of&lt;br&gt;cryptocurrency to buy with email id." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="250" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7983x2gcaleZQ4Jc-A6E-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=#000066;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-10" target="7983x2gcaleZQ4Jc-A6E-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7983x2gcaleZQ4Jc-A6E-10" value="click Checkout and&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#080808&quot; face=&quot;Fira Code, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.0667px ; background-color: rgb(255 , 255 , 255)&quot;&gt;order will be added&lt;/span&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7983x2gcaleZQ4Jc-A6E-10" value="click Checkout and&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#080808&quot;&gt;&lt;span style=&quot;font-size: 13.0667px ; background-color: rgb(255 , 255 , 255)&quot;&gt;order will be added&lt;/span&gt;&lt;/font&gt;&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="390" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7983x2gcaleZQ4Jc-A6E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7983x2gcaleZQ4Jc-A6E-14" target="7983x2gcaleZQ4Jc-A6E-15">
@@ -61,7 +61,7 @@
           <mxGeometry x="360" y="525" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7983x2gcaleZQ4Jc-A6E-28" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="390" y="100" width="60" height="30" as="geometry" />
+          <mxGeometry x="415" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7983x2gcaleZQ4Jc-A6E-29" value="&lt;font&gt;&lt;font color=&quot;#000066&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;H&lt;u&gt;ow to buy&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(0 , 0 , 102) ; font-size: 16px&quot;&gt;&lt;u&gt;Cryptocurrency&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;font color=&quot;#000066&quot;&gt;&lt;u&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;on&lt;br&gt;&amp;nbsp;mobilum&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;system&lt;/b&gt;&lt;/span&gt;&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="530" y="50" width="230" height="80" as="geometry" />
